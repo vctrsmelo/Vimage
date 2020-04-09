@@ -1,2 +1,3 @@
-# Vimage
-Image processing framework
+# VImage
+
+A description of this package.
