@@ -4,7 +4,4 @@
    <FileRef
       location = "group:VImage-Example/VImage-Example.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "container:VImage/VImage.xcodeproj">
-   </FileRef>
 </Workspace>
